@@ -1,0 +1,38 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.img{
+    height: 600px;
+    width: 100%;
+}
+.title1{
+    margin-left: 6vh;
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 7vh;
+  font-family: Baskerville Old Face;
+
+}
+.pera{
+    font-size: 15px;
+    margin-left: 12vh;
+}
+.cource1_list{
+    font-size: 15px;
+    margin-left: 12vh;
+
+}
+#table1{
+    height: 100%;
+    width:100%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    align-items: center;
+  }
+#table1 tr td li{
+    padding: 5px;
+  font-family: cursive;
+
+}

@@ -1,0 +1,30 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.pera{
+    font-size: 15px;
+    margin-left: 12vh;
+
+}
+img{
+    height: 350px;
+    width: 100%;
+}
+.cource1{
+    background-image: url('https://zcdn.proschoolonline.com/wp-content/uploads/2022/07/How-to-start-your-accounting-journey-after-12th-Commerce-1030x579.webp');
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    color: red;
+}
+.title1{
+    font-size: 20px;
+    color: rgb(243, 233, 60);
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10vh;
+}
+.list{
+    font-size: 18px;
+    margin-left: 12vh;
+}

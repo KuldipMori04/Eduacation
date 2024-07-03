@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#After_10th {
+    /* border: 2px solid red; */
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+img{
+    width: 100%;
+}
+.Aftitle{
+    
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-bottom: 10px;
+  font-size: 35px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.pera{
+    font-size: 20px;
+    margin-left: 10vh;
+}
+.term{
+    margin-top: 20px;
+    margin-left: 16vh;
+    font-size: 15px;
+}
+.pera1{
+    font-size: 16px;
+    margin-left: 10vh;
+}
+.career1{
+    font-size: 20px;
+    margin-left: 7vh;
+}
+.career2{
+    font-size: 15px;
+    margin-left: 10vh;
+}
+/* ==table */
+#table1{
+    height: 100%;
+    width:100%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    align-items: center;
+}

@@ -1,0 +1,35 @@
+body{
+  margin-top: 0;
+  padding: 0;
+}
+.pera{
+  font-size: 15px;
+}
+.img{
+  height: 350px;
+  width: 100%;
+}
+/* ==table */
+#table1{
+  height: 70vh;
+  width:100%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  align-items: center;
+}
+#table1 tr td ul li{
+  /* background-color: red; */
+  word-spacing: 6px;
+  margin-top: 10px;
+}
+h2{
+  margin-left:4vh;
+}
+.career{
+  margin-top: 20px;
+  /* margin-left: ; */
+}
+.pera1{
+  margin-left: 7vh;
+  font-size: 13px;
+}

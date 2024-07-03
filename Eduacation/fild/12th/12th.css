@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(254, 173, 173);
+}
+
+#title12th {
+    /* border: 2px solid red; */
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+.Arts{
+    background-image: url('https://images.news18.com/ibnkhabar/uploads/2022/07/career-options-after-12th-16589077023x2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+.commerce{
+    background-image: url('https://cache.careers360.mobi/media/article_images/2019/6/8/Courses-after-12th-commerce.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.science{
+    background-image: url('https://thinksknowledge.com/wp-content/uploads/2022/10/Courses-after-12th-Science.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.pera{
+    font-size: 16px;
+    margin-left: 10vh;
+}
+.title1 a{
+    padding-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    font-size: 25px;
+    font-family: Baskerville Old Face;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px 2px rgb(109, 86, 86);
+    background-color: rgb(209, 236, 229);
+    align-items: center;
+    color: red;
+    border: 2px solid black;
+}
+.title1 a:hover{
+    color: rgb(15, 15, 15);
+    box-shadow:0 0 10px #fff, 0 0 20px #fff, 0 0 40px #fff ;
+}
+.title1:hover  {
+    color: #fff;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #fff;
+  }
+.title2{
+    
+    padding-top: 10px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    color: rgb(24, 6, 6);
+    font-size: 25px;
+    font-family: Baskerville Old Face;
+}
+.term{
+    margin-top: 10px;
+    margin-left: 16vh;
+    font-size: 17px;
+    color: rgb(25, 1, 67);
+}
+
+
+  
+  
+  
